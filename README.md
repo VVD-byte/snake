@@ -1,1 +1,2 @@
-# snake
+Игра "Змейка" 
+Python - pygame
